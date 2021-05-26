@@ -1,4 +1,4 @@
-<a href="https://circleci.com/gh/circleci/circleci-docs/?branch=teesloane-patch-5"><img src="https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg"></a>
+[![CircleCI](https://circleci.com/gh/yared2/mssc-beer-service2.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/?branch=teesloane-patch-5)
 
 
 # MSSC beer Service
